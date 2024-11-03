@@ -60,6 +60,3 @@ if st.button("Enviar"):
 
     if is_goodbye(user_input):
         st.info("Chat terminado.")
-
-
-#Script Test01, prueba de version
